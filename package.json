@@ -1,0 +1,25 @@
+{
+  "name": "learn-openzeppelin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drambluker/learn-openzeppelin.git"
+  },
+  "author": "Eric Vlaskin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drambluker/learn-openzeppelin/issues"
+  },
+  "homepage": "https://github.com/Drambluker/learn-openzeppelin#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
